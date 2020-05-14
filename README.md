@@ -1,7 +1,6 @@
 # microservices
 Microservices example for Danske Bank
-For simplified read and overview code placed in one package and no test 
-applied.
+For simplified read and overview code placed in one package and no tests developed.
 Related projects:
 https://github.com/darian18/currency-exchange-service
 https://github.com/darian18/currency-conversion-service
