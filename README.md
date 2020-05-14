@@ -1,5 +1,5 @@
 # microservices
-Microservices example for Denske Bank
+Microservices example for Danske Bank
 For simplified read and overview code placed in one package and no test 
 applied.
 Related projects:
